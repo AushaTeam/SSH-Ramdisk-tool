@@ -1,4 +1,5 @@
 # SSH-Ramdisk-tool
+# iOS 15 NOT SUPPORTED!!! You'll bootloop if you edit rootfs
 
 An ssh ramdisk tool that lets you boot the restoreramdisk for your specified ios/ipados version (FOR CHECKM8 COMPATIBLE DEVICES ONLY!)
 
